@@ -1,4 +1,4 @@
-# nig-list
+# griefer-list
 
 ![vb](/images/image.png)
 
